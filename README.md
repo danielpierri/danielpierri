@@ -1,8 +1,9 @@
 ## Hello! I'm Daniel. 🙃
 
 - 📚 I'm a Computer Sciences student
-- 🌱 I am currently learning Python, C, Java, HTML, CSS and Javascript
+- 🌱 I am currently learning HTML, CSS, Javascript, React, Python, C and Java
 - 📫 How to reach me: cyberpierri@gmail.com
+- 🌠 Working hard to be a Fullstack Developer
 
 ##
 
