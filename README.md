@@ -8,8 +8,8 @@
 ##
 
 <div>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=danielpierri&count_private=true&theme=github_dark&show_icons=true" />
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielpierri&&layout=compact&langs_count=16&true&theme=github_dark&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielpierri&count_private=true&theme=github_dark&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielpierri&&layout=compact&langs_count=16&true&theme=github_dark&show_icons=true" />
 </div>
 
 ![Snake animation](https://github.com/danielpierri/danielpierri/blob/output/github-contribution-grid-snake.svg)
