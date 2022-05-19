@@ -5,6 +5,7 @@
 - 🌠 Working hard to be a Full Stack Software Developer.
 - 🌱 I practice HTML, CSS, Javascript and React JS everyday since I completed The Frontend Developer Career Path from Scrimba.
 - 💻 I'm now turning my eyes to back-end and data science too. 
+- 🎯 Check out my GitHub Pages Apps!
 - 📫 Reach me: cyberpierri@gmail.com
 ##
 
