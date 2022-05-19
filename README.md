@@ -1,9 +1,10 @@
 ## Hello! I'm Daniel. 🙃
 
-- 📚 I'm a Computer Sciences student
-- 🌠 Working hard to be a Software Developer
-- 🌱 I am currently learning HTML, CSS, Javascript and React JS through The Frontend Developer Career Path from Scrimba 
-  and some other stuff, like Python.
+- 📚 Computer Sciences student.
+- 👨‍💻 Front-end Developer.
+- 🌠 Working hard to be a Full Stack Software Developer.
+- 🌱 I practice HTML, CSS, Javascript and React JS everyday since I completed The Frontend Developer Career Path from Scrimba.
+- 💻 I'm now turning my eyes to back-end and data science too. 
 - 📫 Reach me: cyberpierri@gmail.com
 ##
 
