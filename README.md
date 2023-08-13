@@ -1,12 +1,12 @@
-## Hello! I'm Daniel. 🙃
+## My name is Daniel Pierri.
 
-- 📚 Computer Sciences student.
-- 👨‍💻 Front-end Developer.
-- 🌠 Working hard to be a Full Stack Software Developer.
-- 🌱 I practice HTML, CSS, Javascript and React JS everyday since I completed The Frontend Developer Career Path from Scrimba.
-- 💻 I'm now turning my eyes to back-end and data science too. 
+- 👨‍💻 I am a software Developer based in Brazil.
+- 🌱 I develop applications, websites and platforms from scratch according to all Software Development and UI Design best            practices and code reusability.
+- 💻 Proactive, disciplined and committed.
 - 🎯 Check out my GitHub Pages Apps!
-- 📫 Reach me: cyberpierri@gmail.com
+- 📫 Reach me:
+  - Email: cyberpierri@gmail.com
+  - Instagram: @cyberpierri
 ##
 
 <div>
